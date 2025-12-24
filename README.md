@@ -1,37 +1,64 @@
-![the-green-chronicle-home](https://github.com/Barbapapazes/the-green-chronicle/assets/45267552/d6df661f-1cfc-4f4e-bc0c-d97480d0a885)
+# Astro Starter Kit: Blog
 
-# The Green Chronicle
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/astro-blog-starter-template)
 
-[![Nuxt UI Pro](https://img.shields.io/badge/Made%20with-Nuxt%20UI%20Pro-00DC82?logo=nuxt.js&labelColor=020420)](https://ui.nuxt.com/pro)
+![Astro Template Preview](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
 
-The Green Chronicle is a blog theme for **company** that you can use in [Nuxt Studio](https://nuxt.studio).
+<!-- dash-content-start -->
 
-It is powered by [Nuxt Content](https://content.nuxt.com) and [Nuxt UI Pro](https://ui.nuxt.com/pro)!
+Create a blog with Astro and deploy it on Cloudflare Workers as a [static website](https://developers.cloudflare.com/workers/static-assets/).
 
-## Setup
+Features:
 
-Make sure to install the dependencies:
+- ✅ Minimal styling (make it your own!)
+- ✅ 100/100 Lighthouse performance
+- ✅ SEO-friendly with canonical URLs and OpenGraph data
+- ✅ Sitemap support
+- ✅ RSS Feed support
+- ✅ Markdown & MDX support
+- ✅ Built-in Observability logging
 
-```bash
-pnpm install
-```
+<!-- dash-content-end -->
 
-## Development Server
+## Getting Started
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-pnpm run dev
-```
-
-## Production
-
-In order to build the application for production, you need to have a [Nuxt UI Pro](https://ui.nuxt.com/pro) license and set the `NUXT_UI_PRO_LICENSE` variable in the `.env` file.
-
-Note that this is not required to run in development and contribute to the Nuxt website or documentation.
-
-Build the application for production:
+Outside of this repo, you can start a new project with this template using [C3](https://developers.cloudflare.com/pages/get-started/c3/) (the `create-cloudflare` CLI):
 
 ```bash
-npm run generate
+npm create cloudflare@latest -- --template=cloudflare/templates/astro-blog-starter-template
 ```
+
+A live public deployment of this template is available at [https://astro-blog-starter-template.templates.workers.dev](https://astro-blog-starter-template.templates.workers.dev)
+
+## 🚀 Project Structure
+
+Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+
+There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+
+The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+
+Any static assets, like images, can be placed in the `public/` directory.
+
+## 🧞 Commands
+
+All commands are run from the root of the project, from a terminal:
+
+| Command                           | Action                                           |
+| :-------------------------------- | :----------------------------------------------- |
+| `npm install`                     | Installs dependencies                            |
+| `npm run dev`                     | Starts local dev server at `localhost:4321`      |
+| `npm run build`                   | Build your production site to `./dist/`          |
+| `npm run preview`                 | Preview your build locally, before deploying     |
+| `npm run astro ...`               | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro -- --help`         | Get help using the Astro CLI                     |
+| `npm run build && npm run deploy` | Deploy your production site to Cloudflare        |
+| `npm wrangler tail`               | View real-time logs for all Workers              |
+
+## 👀 Want to learn more?
+
+Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+## Credit
+
+This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
