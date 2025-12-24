@@ -25,7 +25,7 @@ export default defineConfig({
     drafts: true
   },
 
-  site: 'https://yourwebsite.com',
+  site: 'https://purecha.in',
   integrations: [sitemap(), mdx()],
   adapter: cloudflare()
 });
