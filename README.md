@@ -1,38 +1,70 @@
-# Astro i18n Starter
+# Astro & Tailwind CSS Starter Kit by lexingtonthemes.com
+# License
 
-```sh
-npm create astro@latest -- --template psephopaiktes/astro-i18n-starter
+This template is open-source software licensed under the [GPL-3.0 license](https://opensource.org/licenses/GPL-3.0). Feel free to fork, modify, and use it in your projects.# License
+
+## Need an attribution-free version?
+
+Checkout [Lexington Themes](https://lexingtonthemes.com/) for free and premium multipage themes & UI Kits
+For freelancers, developers, businesses, and personal use.
+Beautifully crafted with Astro.js, and Tailwind CSS — Simple & easy to customise.
+
+## Before using this template publicly, please ensure you remove my name and any links associated with me from the website.
+
+
+## This template is using Tailwind CSS V4
+
+Now we are using only a CSS file. It's called `global.css` and it's located in the src/styles folder. Now we are eimporting Tailwind CSS on the same file instead of using the `tailwind.config.cjs` file. Like this:
+
+```css
+// Importing Tailwind CSS
+@import "tailwindcss";
+// Importing Tailwind plugins
+@plugin "@tailwindcss/typography";
+@plugin "@tailwindcss/forms";
 ```
 
-[![Logo Image](docs/hero.svg)](https://astro-i18n-starter.pages.dev/ "See document")
+Then to add your styles you will use the @theme directive. Like this:
 
-i18n Starter is a simple [Astro](https://astro.build) theme for creating multilingual websites.
+```css
+@theme {
+  /* Your CSS goes here, see how styles are written on the global.css file */
+}
+```
 
-It supports [i18n routing in Astro v4.0](https://docs.astro.build/en/guides/internationalization/).
+Remember this is just in Alpha version, so you can use it as you want. Just keep an eye on the changes that Tailwind CSS is going to make.
+## Template Structure
 
-It only supports the subdirectory URL format. Each language is managed with a URL like the following. The root URL will redirect to the specified default language.
+Inside of your Astro project, you'll see the following folders and files:
 
-- example.com/en/
-- example.com/ja/
+```
+/
+├── public/
+├── src/
+│   └── pages/
+│       └── index.astro
+└── package.json
+```
 
+Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
-## Features
+There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
 
-- [x] Support for Astro's official i18n functionality
-- [x] Various methods for managing multilingual pages
-- [x] Vanilla CSS
-- [x] SEO-friendly
+Any static assets, like images, can be placed in the `public/` directory.
 
+## Commands
 
-## Lighthouse Score
+All commands are run from the root of the project, from a terminal:
 
-[![All scores are 100.](docs/lighthouse.png)](https://pagespeed.web.dev/analysis/https-astro-i18n-starter-pages-dev-en/8sg3q21r6c?form_factor=desktop "Check score")
+| Command                | Action                                           |
+| :--------------------- | :----------------------------------------------- |
+| `npm install`          | Installs dependencies                            |
+| `npm run dev`          | Starts local dev server at `localhost:3000`      |
+| `npm run build`        | Build your production site to `./dist/`          |
+| `npm run preview`      | Preview your build locally, before deploying     |
+| `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro --help` | Get help using the Astro CLI                     |
 
+## Want to learn more?
 
-## Documentation
-
-This theme is self-documented, and the pages within this theme can be considered as documentation.
-
-Install and preview locally or check out the sample site below.
-
-https://astro-i18n-starter.pages.dev/
+Feel free to check Astros [documentation](https://docs.astro.build)
