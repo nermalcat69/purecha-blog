@@ -4,25 +4,29 @@ import sitemap from "@astrojs/sitemap";
 import mdx from "@astrojs/mdx";
 
 import cloudflare from "@astrojs/cloudflare";
+import tailwind from "@tailwindcss/vite"
 
 
 // https://astro.build/config
 export default defineConfig({
-  markdown: {
-    drafts: true,
-    shikiConfig: {
-      theme: "css-variables"
-    }
-  },
+  // markdown: {
+  //   drafts: true,
+  //   shikiConfig: {
+  //     theme: "css-variables"
+  //   }
+  // },
 
-  shikiConfig: {
-    wrap: true,
-    skipInline: false,
-    drafts: true
-  },
+  // shikiConfig: {
+  //   wrap: true,
+  //   skipInline: false,
+  //   drafts: true
+  // },
 
   site: 'https://purecha.in',
   integrations: [sitemap(), mdx()],
   adapter: cloudflare(),
 
+  vite: {
+    plugins: [tailwind()]
+  }
 });
