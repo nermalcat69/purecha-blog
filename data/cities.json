@@ -1,0 +1,288 @@
+{
+  "Maharashtra": {
+    "Mumbai": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "nearbyAreas": ["Thane", "Navi Mumbai", "Bandra", "Dadar"],
+      "teaSpecialty": "Cutting Chai",
+      "popularSpots": ["Kyani & Co", "Irani Cafes", "Chowpatty chai stalls", "Dadar flower market chai"],
+      "teaCulture": "Mumbai's chai culture is defined by 'cutting chai' — a half glass of strong, milky tea shared between friends. The Irani cafes of South Mumbai, many decades old, serve chai alongside bun maska with unhurried grace. Chai tapris (roadside stalls) are social hubs where deals are made and friendships forged.",
+      "bestTimeForChai": "Early morning (5–8 AM) at local tapris",
+      "localBrews": ["Cutting chai", "Masala chai", "Ginger chai", "Elaichi chai"],
+      "faqs": [
+        {
+          "question": "What makes Mumbai's cutting chai different?",
+          "answer": "Cutting chai is served in exactly half a glass, strong and sweet, designed to be enjoyed quickly at a tapri between work. The ratio of tea to milk is higher than regular chai."
+        },
+        {
+          "question": "Where are the best Irani cafes for chai in Mumbai?",
+          "answer": "Kyani & Co in Marine Lines, Sassanian Boulangerie in Fort, and B Merwan in Grant Road are iconic spots serving classic Irani chai with bun maska."
+        },
+        {
+          "question": "What tea leaves are used in Mumbai chai?",
+          "answer": "Most tapris use strong CTC (Crush, Tear, Curl) tea from Assam or Dooars, brewed with full-cream milk and generous amounts of sugar."
+        }
+      ]
+    },
+    "Pune": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "nearbyAreas": ["Pimpri-Chinchwad", "Lonavala", "Nashik"],
+      "teaSpecialty": "Sulaimani Chai and Kolhapuri Masala Chai",
+      "popularSpots": ["Vaishali restaurant", "German Bakery", "FC Road chai stalls", "Shivajinagar tapris"],
+      "teaCulture": "Pune blends its Maharashtrian chai traditions with a cosmopolitan student culture. The city around Fergusson College and FC Road is dotted with open-air chai stalls where students debate and philosophers sip. Pune also has a growing specialty tea scene.",
+      "bestTimeForChai": "Evening (4–7 PM) around college areas",
+      "localBrews": ["Masala chai", "Sulaimani", "Green tea", "Herbal chai"],
+      "faqs": [
+        {
+          "question": "Is Pune known for any unique chai variety?",
+          "answer": "Pune is famous for its Kolhapuri-spiced masala chai — bolder in spice with dried coconut added to the masala blend. It reflects the city's proximity to Kolhapur's fiery cuisine."
+        },
+        {
+          "question": "Are there specialty tea cafes in Pune?",
+          "answer": "Yes, Pune has a growing specialty tea culture with cafes offering Darjeeling first flush, Nilgiri teas, and cold brew options alongside traditional chai."
+        }
+      ]
+    },
+    "Nagpur": {
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "nearbyAreas": ["Wardha", "Amravati", "Yavatmal"],
+      "teaSpecialty": "Orange Chai",
+      "popularSpots": ["Sitabuldi market chai stalls", "Dharampeth bakery chai", "Civil Lines tapris"],
+      "teaCulture": "Nagpur, the orange city, brings its famous oranges into its chai culture. Orange zest chai is a local specialty that blends citrus brightness with black tea. The city's strong Vidarbha identity means chai is consumed throughout the day in thick, robust pours.",
+      "bestTimeForChai": "Morning and post-lunch (10 AM and 2 PM)",
+      "localBrews": ["Orange chai", "Strong CTC chai", "Masala chai", "Lemon grass chai"],
+      "faqs": [
+        {
+          "question": "What is Nagpur's orange chai?",
+          "answer": "Orange chai is made by brewing strong black tea with dried orange peel, a pinch of cardamom, and a touch of honey instead of sugar. The orange zest gives a bright, citrusy finish."
+        },
+        {
+          "question": "How does Vidarbha chai differ from Mumbai chai?",
+          "answer": "Vidarbha chai tends to be stronger and less milky than Mumbai cutting chai, often brewed with less water and more tea leaves, reflecting the region's bold, rustic character."
+        }
+      ]
+    }
+  },
+  "Karnataka": {
+    "Bengaluru": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "nearbyAreas": ["Whitefield", "Electronic City", "Mysuru Road", "Tumkur"],
+      "teaSpecialty": "Filter Coffee (with chai as second culture)",
+      "popularSpots": ["Nilgiris tea shops", "CTR in Malleshwaram", "Darshinis across the city", "Cubbon Park chai vendors"],
+      "teaCulture": "While Bengaluru is a coffee-first city, its chai culture is fierce and growing. Tech parks run on cutting chai and masala chai. The city's cosmopolitan population has imported chai habits from across India. Nilgiri tea, grown in the neighbouring hills, finds its way into many cups.",
+      "bestTimeForChai": "Morning and 4 PM tea break",
+      "localBrews": ["Nilgiri chai", "Masala chai", "Ginger lemon tea", "Tulsi chai"],
+      "faqs": [
+        {
+          "question": "Is Bengaluru more coffee or chai?",
+          "answer": "Traditionally coffee, but the IT boom brought millions of North Indians who brought their chai culture. Today Bengaluru is evenly split — filter coffee in the mornings, cutting chai through the day."
+        },
+        {
+          "question": "Where do I get the best Nilgiri tea in Bengaluru?",
+          "answer": "Nilgiris stores across the city stock quality Nilgiri tea. For brewed cups, look for South Indian darshinis that use locally sourced tea leaves."
+        }
+      ]
+    },
+    "Mysuru": {
+      "city": "Mysuru",
+      "state": "Karnataka",
+      "nearbyAreas": ["Mandya", "Hassan", "Coorg", "Ooty (nearby)"],
+      "teaSpecialty": "Coorg Green Tea and Spiced Mysore Chai",
+      "popularSpots": ["Devaraja Market chai stalls", "Palace road tea shops", "Hotel Dasaprakash chai"],
+      "teaCulture": "Mysuru's royal history infuses even its chai culture. Mysore Palace-area chai stalls serve rich, aromatic masala chai with spices sourced from Coorg. The city is close to tea growing regions, making fresh tea leaves accessible and the cup quality exceptional.",
+      "bestTimeForChai": "Morning palace walks (6–9 AM)",
+      "localBrews": ["Coorg green tea", "Spiced chai", "Ginger honey tea", "Cardamom chai"],
+      "faqs": [
+        {
+          "question": "What makes Mysuru chai special?",
+          "answer": "Proximity to Coorg means Mysuru chai often uses fresher, locally sourced tea leaves. The masala blend also includes Coorg pepper and local cardamom, giving it a unique aromatic profile."
+        }
+      ]
+    },
+    "Mangaluru": {
+      "city": "Mangaluru",
+      "state": "Karnataka",
+      "nearbyAreas": ["Udupi", "Manipal", "Kundapura", "Kasaragod"],
+      "teaSpecialty": "Sulaimani Chai",
+      "popularSpots": ["Bunder area chai stalls", "Old Port Road tea shops", "Hampankatta street chai"],
+      "teaCulture": "Mangaluru's coastal Muslim community has made Sulaimani chai — a black tea with lemon and spices — a local institution. Alongside the Arabic-influenced tea culture, the Tulu-speaking community drinks strong kadak chai through long fishing mornings.",
+      "bestTimeForChai": "Pre-dawn and early morning at port areas",
+      "localBrews": ["Sulaimani chai", "Black tea with lemon", "Masala chai", "Ginger tea"],
+      "faqs": [
+        {
+          "question": "What is Sulaimani chai and why is it popular in Mangaluru?",
+          "answer": "Sulaimani is a spiced black tea with lemon juice, common in Malabar and coastal Karnataka. It has Arabic roots, brought by the region's trading history. It is light, digestive, and fragrant with cloves and cardamom."
+        }
+      ]
+    }
+  },
+  "Uttar Pradesh": {
+    "Lucknow": {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "nearbyAreas": ["Kanpur", "Unnao", "Barabanki", "Hardoi"],
+      "teaSpecialty": "Kehwa and Saffron Chai",
+      "popularSpots": ["Hazratganj chai spots", "Chowk bazaar tea stalls", "Aminabad chai wallahs", "Royal Cafe"],
+      "teaCulture": "Lucknow's Nawabi heritage permeates its tea culture. Kehwa — green tea with saffron, cardamom and rose petals — reflects the city's Mughal refinement. The city's chai wallahs are known for their slow, meditative brewing and for the culture of 'adda' — long conversations over endless cups.",
+      "bestTimeForChai": "Afternoon (3–6 PM) at Hazratganj",
+      "localBrews": ["Kehwa", "Saffron chai", "Rose masala chai", "Kesar doodh chai"],
+      "faqs": [
+        {
+          "question": "What is Kehwa and how is it made?",
+          "answer": "Kehwa is a light green tea brewed with saffron strands, cardamom pods, cinnamon, and cloves. It is often garnished with rose petals and almonds. It has no milk and is enjoyed as a digestive after meals."
+        },
+        {
+          "question": "Is chai an important part of Lucknow's culture?",
+          "answer": "Absolutely. The concept of 'adda' — gathering for unhurried conversation — is central to Lucknowi life, and chai is its fuel. From intellectuals at Hazratganj to traders at Chowk, chai is the thread that binds social life."
+        }
+      ]
+    },
+    "Varanasi": {
+      "city": "Varanasi",
+      "state": "Uttar Pradesh",
+      "nearbyAreas": ["Sarnath", "Mirzapur", "Chandauli", "Ghazipur"],
+      "teaSpecialty": "Kulhad Chai",
+      "popularSpots": ["Ghat-side chai stalls", "Dashashwamedh Ghat tea vendors", "Assi Ghat chai wallahs", "Kachori Gali stalls"],
+      "teaCulture": "No city in India has a deeper chai ritual than Varanasi. Kulhad chai — served in handmade clay cups — is drunk at the ghats as the Ganga flows. The earthy taste from the kulhad, the mist from the river, the sound of temple bells — chai here is a spiritual experience. Every ghat has its chai wallah.",
+      "bestTimeForChai": "Sunrise at the ghats (5–7 AM)",
+      "localBrews": ["Kulhad masala chai", "Adrak chai", "Black tea", "Tulsi chai"],
+      "faqs": [
+        {
+          "question": "What is kulhad chai and why is it special in Varanasi?",
+          "answer": "Kulhad chai is served in disposable unglazed clay cups (kulhad). The porous clay imparts an earthy, mineral taste to the chai that no other vessel can replicate. In Varanasi, drinking chai from a kulhad at the ghats is a ritual for pilgrims and travellers alike."
+        },
+        {
+          "question": "Is there a specific recipe for Varanasi ghat chai?",
+          "answer": "Varanasi chai is strong CTC tea brewed with whole milk, plenty of sugar, ginger, and a black cardamom pod (badi elaichi). The black cardamom gives it a smoky undertone distinct from chai elsewhere."
+        }
+      ]
+    },
+    "Agra": {
+      "city": "Agra",
+      "state": "Uttar Pradesh",
+      "nearbyAreas": ["Mathura", "Firozabad", "Etah", "Mainpuri"],
+      "teaSpecialty": "Petha Chai",
+      "popularSpots": ["Taj Ganj chai stalls", "Sadar Bazaar tea shops", "Hotel Sheela chai"],
+      "teaCulture": "Agra's chai culture is shaped by its role as a pilgrimage and tourism hub. Chai stalls near the Taj Mahal run from pre-dawn for tourists, and the local innovation is petha chai — infused with the essence of ash gourd sweet, Agra's famous delicacy. The city's chai wallahs are some of UP's most entrepreneurial.",
+      "bestTimeForChai": "Pre-sunrise at Taj Mahal viewpoints (5–6 AM)",
+      "localBrews": ["Petha chai", "Masala chai", "Kesar chai", "Plain milk tea"],
+      "faqs": [
+        {
+          "question": "What is Agra's petha chai?",
+          "answer": "Petha chai is a local innovation where a small piece of petha (ash gourd sweet) is dissolved into masala chai, adding a delicate floral sweetness. Some chai wallahs near Sadar Bazaar have been serving this for generations."
+        }
+      ]
+    }
+  },
+  "Rajasthan": {
+    "Jaipur": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "nearbyAreas": ["Ajmer", "Alwar", "Dausa", "Sikar"],
+      "teaSpecialty": "Masala Chai with Dry Fruits",
+      "popularSpots": ["Johari Bazaar chai stalls", "Lassiwala area", "MI Road tea shops", "Old City haveli cafes"],
+      "teaCulture": "Jaipur's Pink City heritage is matched by its love of rich, indulgent chai. Rajasthani masala chai is thicker, sweeter, and loaded with warming spices including black pepper, dry ginger (saunth), and cloves. Dry fruits are sometimes added for warmth in the desert winters. The city's havelis serve chai as hospitality to every guest.",
+      "bestTimeForChai": "Winter mornings (October–February, 6–9 AM)",
+      "localBrews": ["Rajasthani masala chai", "Saunth chai", "Kesar chai", "Dry fruit chai"],
+      "faqs": [
+        {
+          "question": "What spices go into Jaipur's masala chai?",
+          "answer": "Jaipur masala chai typically uses dry ginger (saunth), black pepper, cloves, green cardamom, cinnamon, and sometimes nutmeg. The blend is heavier in warming spices compared to chai from other regions — ideal for Rajasthan's cold desert winters."
+        },
+        {
+          "question": "What is the chai culture like in Jaipur's Old City?",
+          "answer": "In the Old City havelis and bazaars, chai is a gesture of hospitality. No business meeting or family visit starts without a thick, sweet cup of chai. Street-side chai wallahs in Johari Bazaar have been at the same spot for generations."
+        }
+      ]
+    },
+    "Jodhpur": {
+      "city": "Jodhpur",
+      "state": "Rajasthan",
+      "nearbyAreas": ["Barmer", "Nagaur", "Pali", "Jaisalmer"],
+      "teaSpecialty": "Makhaniya Lassi Chai (rare blend) and Desert Spice Chai",
+      "popularSpots": ["Clock Tower area chai stalls", "Sardar Market tea wallahs", "Old City narrow street vendors"],
+      "teaCulture": "Jodhpur's Blue City backdrop sets the scene for one of Rajasthan's most robust chai cultures. The arid climate demands warming, energising beverages. Desert spice chai here uses locally foraged herbs alongside the standard masala blend. Chai breaks in Jodhpur's bazaars are social anchors of trading culture.",
+      "bestTimeForChai": "Morning market hours (7–10 AM)",
+      "localBrews": ["Desert spice chai", "Ginger chai", "Black cardamom chai", "Saffron milk tea"],
+      "faqs": [
+        {
+          "question": "What makes Jodhpur chai taste different from Jaipur chai?",
+          "answer": "Jodhpur chai tends to use more black cardamom and saffron, giving it a smokier, more exotic profile. The water from Jodhpur's region also imparts a distinct mineral quality to the brew."
+        }
+      ]
+    },
+    "Udaipur": {
+      "city": "Udaipur",
+      "state": "Rajasthan",
+      "nearbyAreas": ["Chittorgarh", "Rajsamand", "Bhilwara", "Dungarpur"],
+      "teaSpecialty": "Rose Chai",
+      "popularSpots": ["Lake Pichola cafes", "Jagdish Temple area", "City Palace rooftop cafes", "Badi Haveli chai"],
+      "teaCulture": "Udaipur — the City of Lakes — brings a romantic quality to its chai. Rose chai, made with real rose petals or rose water from local distilleries, is a Udaipur specialty. The city's lakeside cafes serve chai with a view that slows time. Rooftop chai in Udaipur is an experience as much as a beverage.",
+      "bestTimeForChai": "Sunset at Lake Pichola (5–7 PM)",
+      "localBrews": ["Rose chai", "Kesar rose chai", "Masala chai", "Hibiscus tea"],
+      "faqs": [
+        {
+          "question": "What is Udaipur's rose chai?",
+          "answer": "Rose chai is brewed by adding dried rose petals or a spoonful of rose water to black masala chai. Udaipur's access to fresh Rajasthani roses (used for gulkand and rose water production) makes this chai exceptionally fragrant."
+        }
+      ]
+    }
+  },
+  "Gujarat": {
+    "Ahmedabad": {
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "nearbyAreas": ["Gandhinagar", "Anand", "Vadodara", "Mehsana"],
+      "teaSpecialty": "Masala Chai with extra ginger and Jaggery Chai",
+      "popularSpots": ["Manek Chowk chai stalls", "Law Garden area", "CG Road tea cafes", "Navrangpura student spots"],
+      "teaCulture": "Ahmedabad runs on chai. The city's entrepreneurial spirit is fuelled by endless cups of strong, ginger-heavy masala chai. Jaggery chai — substituting refined sugar with organic jaggery — is a health-conscious local trend. The famous Manek Chowk, which transforms from a jewellery market by day to a food street by night, is also ground zero for Ahmedabad chai culture.",
+      "bestTimeForChai": "All day — especially 7 AM, 11 AM, 4 PM, 9 PM",
+      "localBrews": ["Ginger masala chai", "Jaggery chai", "Lemongrass chai", "Adrak elaichi chai"],
+      "faqs": [
+        {
+          "question": "What is jaggery chai and why is it popular in Ahmedabad?",
+          "answer": "Jaggery chai replaces refined sugar with organic jaggery (unrefined cane sugar). It has a deeper, more caramel-like sweetness and is considered more wholesome. Gujarat's Ayurvedic food traditions made this a popular choice."
+        },
+        {
+          "question": "How many cups of chai does the average Amdavadi drink per day?",
+          "answer": "Studies suggest Ahmedabad residents drink an average of 4–6 cups of chai per day. Chai is consumed at breakfast, mid-morning, post-lunch, evening, and often after dinner."
+        }
+      ]
+    },
+    "Surat": {
+      "city": "Surat",
+      "state": "Gujarat",
+      "nearbyAreas": ["Navsari", "Tapi", "Valsad", "Bharuch"],
+      "teaSpecialty": "Surat Locho Chai (chai served with local snacks)",
+      "popularSpots": ["Chowk Bazaar chai wallahs", "Ghod Dod Road cafes", "Nanpura area tea stalls", "Diamond market area chai"],
+      "teaCulture": "Surat, India's diamond and textile hub, has a chai culture closely tied to business. The city's traders seal deals over strong chai with local locho and khaman. Surat's chai is notably sweeter than the rest of Gujarat, reflecting the city's sweet tooth.",
+      "bestTimeForChai": "Morning and evening business hours",
+      "localBrews": ["Sweet masala chai", "Elaichi chai", "Tulsi ginger chai", "Milk tea"],
+      "faqs": [
+        {
+          "question": "Why is Surat chai sweeter than other Gujarati chai?",
+          "answer": "Surat's cuisine is famously sweet — even its dals have sugar. This sweet preference extends to chai, which is made with more sugar than the Ahmedabad or Vadodara counterparts."
+        }
+      ]
+    },
+    "Vadodara": {
+      "city": "Vadodara",
+      "state": "Gujarat",
+      "nearbyAreas": ["Anand", "Bharuch", "Narmada", "Chhota Udaipur"],
+      "teaSpecialty": "Baroda Royal Chai",
+      "popularSpots": ["Sayaji Baug area", "Fatehgunj chai spots", "Alkapuri cafes", "Vadodara railway station chai"],
+      "teaCulture": "Vadodara's Gaekwad royal history gives its chai culture a distinguished air. The city has a strong arts and university culture (MS University) that makes cafes and chai stalls intellectual hubs. Baroda chai tends to be moderately sweet with a strong cardamom note.",
+      "bestTimeForChai": "Evening around Sayaji Baug (4–7 PM)",
+      "localBrews": ["Cardamom chai", "Masala chai", "Ginger tulsi chai", "Herbal tea"],
+      "faqs": [
+        {
+          "question": "What is Baroda Royal Chai?",
+          "answer": "Baroda royal chai is a cardamom-heavy, mildly sweet chai inspired by the brewing traditions of the Gaekwad royal household. It uses whole green cardamom pods crushed fresh, and full-cream milk for a rich, fragrant cup."
+        }
+      ]
+    }
+  }
+}

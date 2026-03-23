@@ -1,64 +1,77 @@
-# Astro Starter Kit: Blog
+# delphitools
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/astro-blog-starter-template)
+A collection of small, low stakes and low effort tools.
+No logins, no registration, no data collection.
+I can't believe I have to say that. 
+Long live the handmade web.
 
-![Astro Template Preview](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
+## Included tools
 
-<!-- dash-content-start -->
+### social media
 
-Create a blog with Astro and deploy it on Cloudflare Workers as a [static website](https://developers.cloudflare.com/workers/static-assets/).
+- social media cropper
+- matte genny
+- seamless scroll genny
+- watermarker
 
-Features:
+### colour
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
-- ✅ Built-in Observability logging
+- colour converter (hex, rgb, hsl, oklch, lab, lch, oklab)
+- tailwind shade genny
+- harmony genny
+- palette genny
+- palette collection
+- contrast checker
+- colour blindness simulator
+- gradient genny
 
-<!-- dash-content-end -->
+### img & assets
 
-## Getting Started
+- favicon genny
+- svg optimiser
+- placeholder genny
+- image splitter
+- image converter
+- artwork enhancer
+- background remover
+- image tracer
 
-Outside of this repo, you can start a new project with this template using [C3](https://developers.cloudflare.com/pages/get-started/c3/) (the `create-cloudflare` CLI):
+### typo & text
 
-```bash
-npm create cloudflare@latest -- --template=cloudflare/templates/astro-blog-starter-template
-```
+- px to rem
+- line height calc
+- typo calc (agates, ciceros, picas, pt, inches, mm)
+- paper sizes
+- word counter
+- glyph browser
+- font file explorer
 
-A live public deployment of this template is available at [https://astro-blog-starter-template.templates.workers.dev](https://astro-blog-starter-template.templates.workers.dev)
+### print & production
 
-## 🚀 Project Structure
+- pdf preflight
+- guillotine director
+- zine imposer
+- print imposer
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+### other tools
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+- text scratchpad
+- tailwind cheat sheet
+- qr genny
+- barcode genny
+- meta tag genny
+- regex tester
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+### calculators
 
-Any static assets, like images, can be placed in the `public/` directory.
+- scientific calc
+- graph calc
+- algebra calc
+- base converter
+- time calc
+- unit converter
+- encoding tools
 
-## 🧞 Commands
+### turbo-nerd shit
 
-All commands are run from the root of the project, from a terminal:
-
-| Command                           | Action                                           |
-| :-------------------------------- | :----------------------------------------------- |
-| `npm install`                     | Installs dependencies                            |
-| `npm run dev`                     | Starts local dev server at `localhost:4321`      |
-| `npm run build`                   | Build your production site to `./dist/`          |
-| `npm run preview`                 | Preview your build locally, before deploying     |
-| `npm run astro ...`               | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help`         | Get help using the Astro CLI                     |
-| `npm run build && npm run deploy` | Deploy your production site to Cloudflare        |
-| `npm wrangler tail`               | View real-time logs for all Workers              |
-
-## 👀 Want to learn more?
-
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+- shavian transliterator
