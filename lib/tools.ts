@@ -127,6 +127,13 @@ export const toolCategories: ToolCategory[] = [
         icon: Globe,
         href: "/available-locations",
       },
+      {
+        id: "other-websites",
+        name: "Other Websites",
+        description: "More projects from our team",
+        icon: Globe,
+        href: "/other-websites",
+      },
     ],
   },
 ];
