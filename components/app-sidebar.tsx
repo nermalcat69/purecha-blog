@@ -37,7 +37,7 @@ export function AppSidebar() {
                   PC
                 </div>
                 <div className="flex flex-col gap-0.5 leading-none">
-                  <span className="font-semibold">PurechaChai</span>
+                  <span className="font-semibold">Purecha</span>
                   <span className="text-xs text-muted-foreground">
                     chai &amp; tea
                   </span>

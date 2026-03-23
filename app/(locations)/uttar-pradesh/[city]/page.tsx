@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: Props) {
   const info = getCityInfoFromSlugs("uttar-pradesh", city);
   if (!info) return {};
   return generatePageMetadata({
-    title: `Chai Culture in ${info.city}, Uttar Pradesh | PurechaChai`,
+    title: `Chai Culture in ${info.city}, Uttar Pradesh | Purecha`,
     description: `Discover ${info.city}'s chai culture — ${info.teaSpecialty}. ${info.teaCulture.slice(0, 120)}...`,
     canonical: `/uttar-pradesh/${city}`,
     keywords: [`${info.city} chai`, `chai in ${info.city}`, "uttar pradesh chai"],

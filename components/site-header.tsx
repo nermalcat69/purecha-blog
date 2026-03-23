@@ -19,7 +19,7 @@ export function SiteHeader() {
     <header className="sticky top-0 z-50 border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/80">
       <div className="max-w-5xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between">
         <Link href="/" className="font-bold text-lg tracking-tight hover:opacity-70 transition-opacity">
-          PurechaChai
+          Purecha
         </Link>
 
         {/* Desktop nav */}

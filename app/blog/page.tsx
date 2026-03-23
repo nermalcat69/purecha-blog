@@ -4,7 +4,7 @@ import { posts } from "@/data/posts";
 import { generatePageMetadata } from "@/lib/seo-utils";
 
 export const metadata = generatePageMetadata({
-  title: "Chai & Tea Recipes — PurechaChai",
+  title: "Chai & Tea Recipes — Purecha",
   description: "Authentic chai and tea recipes from across India. Masala chai, Kashmiri noon chai, cold brew Darjeeling, karak chai and more.",
   canonical: "/blog",
   keywords: ["chai recipes", "tea recipes", "masala chai recipe", "how to make chai"],

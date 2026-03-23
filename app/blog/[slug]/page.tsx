@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: Props) {
   const post = getPostBySlug(slug);
   if (!post) return {};
   return generatePageMetadata({
-    title: `${post.title} — PurechaChai`,
+    title: `${post.title} — Purecha`,
     description: post.excerpt,
     canonical: `/blog/${slug}`,
     keywords: post.tags,

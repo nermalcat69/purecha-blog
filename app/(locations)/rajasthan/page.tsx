@@ -5,8 +5,8 @@ import { generatePageMetadata, generateBreadcrumbSchema } from "@/lib/seo-utils"
 import { siteMetadata } from "@/data/siteMetadata";
 
 export const metadata = generatePageMetadata({
-  title: "Bulk Chai Supplier in Rajasthan — Jaipur, Jodhpur & More | PurechaChai",
-  description: "PurechaChai supplies wholesale bulk chai to heritage hotels, resorts, restaurants, and businesses across Rajasthan. Serving Jaipur, Jodhpur, Udaipur, and more.",
+  title: "Bulk Chai Supplier in Rajasthan — Jaipur, Jodhpur & More | Purecha",
+  description: "Purecha supplies wholesale bulk chai to heritage hotels, resorts, restaurants, and businesses across Rajasthan. Serving Jaipur, Jodhpur, Udaipur, and more.",
   canonical: "/rajasthan",
   keywords: ["bulk chai rajasthan", "wholesale chai jaipur", "bulk tea supplier rajasthan", "chai supplier jodhpur"],
 });

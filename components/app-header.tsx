@@ -45,7 +45,7 @@ export function AppHeader() {
         </div>
       ) : (
         <div className="flex items-center gap-2">
-          <h1 className="text-lg font-semibold">{derivedTitle || "PurechaChai"}</h1>
+          <h1 className="text-lg font-semibold">{derivedTitle || "Purecha"}</h1>
         </div>
       )}
 

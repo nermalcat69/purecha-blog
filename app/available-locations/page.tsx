@@ -5,8 +5,8 @@ import { generatePageMetadata } from "@/lib/seo-utils";
 import { siteMetadata } from "@/data/siteMetadata";
 
 export const metadata = generatePageMetadata({
-  title: "Bulk Chai Supply Locations Across India — PurechaChai",
-  description: "PurechaChai supplies wholesale bulk chai to businesses across India. Browse cities and states we serve — hotels, restaurants, canteens, and FMCG brands welcome.",
+  title: "Bulk Chai Supply Locations Across India — Purecha",
+  description: "Purecha supplies wholesale bulk chai to businesses across India. Browse cities and states we serve — hotels, restaurants, canteens, and FMCG brands welcome.",
   canonical: "/available-locations",
   keywords: ["bulk chai supply india", "wholesale chai by city", "bulk tea supplier india", "chai supplier by state"],
 });

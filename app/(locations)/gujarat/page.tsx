@@ -5,8 +5,8 @@ import { generatePageMetadata, generateBreadcrumbSchema } from "@/lib/seo-utils"
 import { siteMetadata } from "@/data/siteMetadata";
 
 export const metadata = generatePageMetadata({
-  title: "Bulk Chai Supplier in Gujarat — Ahmedabad, Surat & More | PurechaChai",
-  description: "PurechaChai supplies wholesale bulk chai to corporate canteens, industrial units, restaurants, and businesses across Gujarat. Serving Ahmedabad, Surat, Vadodara, and more.",
+  title: "Bulk Chai Supplier in Gujarat — Ahmedabad, Surat & More | Purecha",
+  description: "Purecha supplies wholesale bulk chai to corporate canteens, industrial units, restaurants, and businesses across Gujarat. Serving Ahmedabad, Surat, Vadodara, and more.",
   canonical: "/gujarat",
   keywords: ["bulk chai gujarat", "wholesale chai ahmedabad", "bulk tea supplier gujarat", "chai supplier surat"],
 });

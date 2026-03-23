@@ -96,9 +96,9 @@ export default function Home() {
       {/* About strip */}
       <section className="border-t pt-10">
         <div className="max-w-2xl">
-          <h2 className="text-lg font-semibold mb-3">About PurechaChai</h2>
+          <h2 className="text-lg font-semibold mb-3">About Purecha</h2>
           <p className="text-sm text-muted-foreground leading-relaxed">
-            PurechaChai documents the extraordinary diversity of chai culture across India.
+            Purecha documents the extraordinary diversity of chai culture across India.
             Every state has its own blend, every city its own ritual, every chai wallah
             their own secret. We write recipes that work, and stories that matter.
             No logins. No tracking. Just chai.

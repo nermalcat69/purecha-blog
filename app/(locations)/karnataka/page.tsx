@@ -5,8 +5,8 @@ import { generatePageMetadata, generateBreadcrumbSchema } from "@/lib/seo-utils"
 import { siteMetadata } from "@/data/siteMetadata";
 
 export const metadata = generatePageMetadata({
-  title: "Bulk Chai Supplier in Karnataka — Bengaluru, Mysuru & More | PurechaChai",
-  description: "PurechaChai supplies wholesale bulk chai to hotels, tech park canteens, restaurants, and businesses across Karnataka. Serving Bengaluru, Mysuru, Mangaluru, and more.",
+  title: "Bulk Chai Supplier in Karnataka — Bengaluru, Mysuru & More | Purecha",
+  description: "Purecha supplies wholesale bulk chai to hotels, tech park canteens, restaurants, and businesses across Karnataka. Serving Bengaluru, Mysuru, Mangaluru, and more.",
   canonical: "/karnataka",
   keywords: ["bulk chai karnataka", "wholesale chai bengaluru", "bulk tea supplier karnataka", "chai supplier bangalore"],
 });

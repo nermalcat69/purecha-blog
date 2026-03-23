@@ -10,8 +10,8 @@ import { siteMetadata } from "@/data/siteMetadata";
 export const metadata: Metadata = {
   metadataBase: new URL(siteMetadata.siteUrl),
   title: {
-    default: "PurechaChai — Authentic Chai & Tea Recipes from India",
-    template: "%s | PurechaChai",
+    default: "Purecha — Authentic Chai & Tea Recipes from India",
+    template: "%s | Purecha",
   },
   description: siteMetadata.description,
   robots: {

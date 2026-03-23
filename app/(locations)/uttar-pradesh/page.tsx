@@ -5,8 +5,8 @@ import { generatePageMetadata, generateBreadcrumbSchema } from "@/lib/seo-utils"
 import { siteMetadata } from "@/data/siteMetadata";
 
 export const metadata = generatePageMetadata({
-  title: "Bulk Chai Supplier in Uttar Pradesh — Lucknow, Varanasi & More | PurechaChai",
-  description: "PurechaChai supplies wholesale bulk chai to dhabas, hotels, canteens, and businesses across Uttar Pradesh. Serving Lucknow, Varanasi, Agra, and more.",
+  title: "Bulk Chai Supplier in Uttar Pradesh — Lucknow, Varanasi & More | Purecha",
+  description: "Purecha supplies wholesale bulk chai to dhabas, hotels, canteens, and businesses across Uttar Pradesh. Serving Lucknow, Varanasi, Agra, and more.",
   canonical: "/uttar-pradesh",
   keywords: ["bulk chai uttar pradesh", "wholesale chai lucknow", "bulk tea supplier up", "chai supplier varanasi"],
 });

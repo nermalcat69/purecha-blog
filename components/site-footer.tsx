@@ -6,7 +6,7 @@ export function SiteFooter() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 py-8">
         <div className="grid gap-8 sm:grid-cols-3 text-sm">
           <div className="space-y-2">
-            <p className="font-semibold">PurechaChai</p>
+            <p className="font-semibold">Purecha</p>
             <p className="text-muted-foreground text-xs leading-relaxed">
               Authentic chai and tea recipes from across India.
               No ads, no tracking. Just chai.
@@ -31,7 +31,7 @@ export function SiteFooter() {
           </div>
         </div>
         <div className="mt-8 pt-6 border-t border-border/50 text-xs text-muted-foreground/60">
-          <p>© {new Date().getFullYear()} PurechaChai. Built with Next.js and Tailwind CSS.</p>
+          <p>© {new Date().getFullYear()} Purecha. Built with Next.js and Tailwind CSS.</p>
         </div>
       </div>
     </footer>

@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: Props) {
   const info = getCityInfoFromSlugs("karnataka", city);
   if (!info) return {};
   return generatePageMetadata({
-    title: `Chai Culture in ${info.city}, Karnataka | PurechaChai`,
+    title: `Chai Culture in ${info.city}, Karnataka | Purecha`,
     description: `Discover ${info.city}'s chai culture — ${info.teaSpecialty}. ${info.teaCulture.slice(0, 120)}...`,
     canonical: `/karnataka/${city}`,
     keywords: [`${info.city} chai`, `chai in ${info.city}`, `${info.city} tea`, "karnataka chai"],
