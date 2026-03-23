@@ -3,6 +3,8 @@ import { siteMetadata } from "@/data/siteMetadata";
 import { getAllCityPages, stateList } from "@/lib/cityData";
 import { getAllSlugs } from "@/data/posts";
 
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = siteMetadata.siteUrl;
   const today = new Date().toISOString().split("T")[0];
