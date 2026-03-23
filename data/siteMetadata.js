@@ -1,5 +1,5 @@
 export const siteMetadata = {
-  siteUrl: 'https://Purecha.com',
+  siteUrl: 'https://purecha.in',
   title: 'Purecha',
   language: 'en-IN',
   locale: 'en_IN',
